@@ -9203,6 +9203,10 @@ YOR:
     max_latitude: 53.9912585
     max_longitude: -1.0139137
   name: York
+WYK:
+  translations:
+    en: West Yorkshire
+  name: West Yorkshire
 ZET:
   unofficial_names: Shetland Islands
   translations:
